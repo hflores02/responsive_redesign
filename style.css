@@ -117,35 +117,6 @@ img{
 }
 
 
-
-#sb {
-    background-color: rgba(255, 255, 255, 0.5);
-    margin: 1% 4% 4% 4%;
-    padding: 1% 0 1% 0;
-}
-
-#sb p {
-    font-size: 23px;
-    padding-left: 1%;
-}
-
-.sbcenter {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%;
-  }
-
-  .wc {
-    font-family: "Palatino", serif;
-    font-size: 21px;
-    color: black;
-    margin: 1% 0% 0% 0%;
-    background-color: rgba(255, 255, 255, 0.5);
-    padding: 1px 1% 1% 1%;
-    
-  }
-
   .two_levels {
     display: float;
   }
